@@ -1,0 +1,14 @@
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 85px;
+}
+.titulo{
+    color: black;
+}
+.linha{
+    display: flex;
+    justify-content:space-between;
+    padding: 85px;
+}
